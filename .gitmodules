@@ -1,0 +1,9 @@
+[submodule "homework1"]
+	path = homework1
+	url = https://github.com/isinglee/homework1.git
+[submodule "homework3"]
+	path = homework3
+	url = https://github.com/isinglee/homework3.git
+[submodule "homework4"]
+	path = homework4
+	url = https://github.com/isinglee/homework4.git
