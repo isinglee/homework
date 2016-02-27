@@ -7,3 +7,6 @@
 [submodule "homework4"]
 	path = homework4
 	url = https://github.com/isinglee/homework4.git
+[submodule "homework5"]
+	path = homework5
+	url = git@github.com:isinglee/homework5.git
