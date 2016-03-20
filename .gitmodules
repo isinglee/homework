@@ -16,3 +16,6 @@
 [submodule "homework7_8"]
 	path = homework7_8
 	url = https://github.com/isinglee/homework7_8.git
+[submodule "homework9"]
+	path = homework9
+	url = https://github.com/isinglee/homework9.git
