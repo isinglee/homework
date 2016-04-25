@@ -37,3 +37,6 @@
 [submodule "homeworkjs7_8"]
 	path = homeworkjs7_8
 	url = https://github.com/isinglee/homeworkjs7_8.git
+[submodule "homeworkjs9_10"]
+	path = homeworkjs9_10
+	url = https://github.com/isinglee/homeworkjs9_10.git
