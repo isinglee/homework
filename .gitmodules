@@ -52,3 +52,6 @@
 [submodule "homeworkjs19_20"]
 	path = homeworkjs19_20
 	url = https://github.com/isinglee/homeworkjs19_20.git
+[submodule "homeworkjs21_22"]
+	path = homeworkjs21_22
+	url = https://github.com/isinglee/homeworkjs21_22.git
