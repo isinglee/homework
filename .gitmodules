@@ -58,3 +58,6 @@
 [submodule "homeworkjs23_24"]
 	path = homeworkjs23_24
 	url = https://github.com/isinglee/homeworkjs23_24.git
+[submodule "final_exam"]
+	path = final_exam
+	url = https://github.com/isinglee/final_exam.git
